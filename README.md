@@ -7,9 +7,13 @@
 Citación: 
 
 High-Resolution Global Maps of 21st-Century Forest Cover
+
 Change.  M. C. Hansen y otros.   University of Maryland.
+
 Global Forest Watch (GFW).
+
 Landsat resolución. 30m.
+
 Proveedor de conjuntos de datos: Hansen / UMD / Google / USGS / NASA
 
 “Algunos ejemplos de detección de cambios mejorada en la actualización 2011-2020 incluyen los siguientes:
