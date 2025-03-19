@@ -23,4 +23,5 @@ Proveedor de conjuntos de datos: Hansen / UMD / Google / USGS / NASA
 4.	Mejor detección de la tala de plantaciones de ciclo corto en ecozonas tropicales y subtropicales.
 Estos son ejemplos de dinámicas que pueden mapearse diferencialmente durante el período 2001-2020 en la Versión 1.8. Está previsto un reprocesamiento de la versión 2.0 del registro de 2000 en adelante, pero aún no se ha confirmado la fecha de entrega”. https://storage.googleapis.com/earthenginepartners-hansen/GFC-2020-v1.8/download.html
 
-Composición y análisis: alfonso rincon barrera
+Composición y análisis: 
+alfonso rincon barrera
